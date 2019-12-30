@@ -1,0 +1,6 @@
+if 10	 <=	 m
+First	:=	Line;	{chkhkjhkjommeentttt}
+Second	:=	(Line+Sytnax);
+Third	:=		999.99;
+Fourth;
+:=
